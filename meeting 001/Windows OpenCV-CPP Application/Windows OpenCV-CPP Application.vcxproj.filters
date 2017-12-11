@@ -32,5 +32,8 @@
     <ClInclude Include="argh.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="simplecv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
